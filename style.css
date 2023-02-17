@@ -1,0 +1,12 @@
+body {
+  background-image: linear-gradient(to right, rgb(236, 119, 138), rgb(221, 120, 221),rgb(118, 118, 228));
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
